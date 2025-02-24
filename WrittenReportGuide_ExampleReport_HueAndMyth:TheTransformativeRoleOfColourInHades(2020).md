@@ -1,4 +1,4 @@
-# Hue and Myth: The Transformative Role of Colour in Hades (2020)
+# Hue and Myth: The Transformative Role of Colour in Hades (2020) - 1192 words (excluding references)
 
 ## Introduction
 
