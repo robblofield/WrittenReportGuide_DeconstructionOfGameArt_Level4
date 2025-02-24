@@ -10,8 +10,8 @@ The indie game *Hades (2020)* by Supergiant Games has garnered critical acclaim 
 ## Background and Context
 
 *Hades* exemplifies how a small indie game can achieve visual sophistication on par with large-scale productions. Developed by Supergiant Games, the title blends traditional hand-painted art with advanced digital effects to create a visually immersive world. Drawing heavily on classical Greek mythology (fig. 2), *Hades* reinterprets ancient themes through modern game design, where every colour is imbued with narrative significance (IGN, 2020).
-`[INSERT CONSTRUCTED COLLAGE OF GREEK POTTERY/HADES ENVIRONMENT ART COMPARISON]`
-> Figure 2 - Greek Pottery Examples alongside environment art from Hades
+![Figure 2 - Greek Influences](Images/GreekInfluences.png)
+> Figure 2 - Greek Pottery and architecture examples alongside a screenshot from Hades
 
 In digital art and game design, colour is not merely decorative; it is instrumental in evoking mood and conveying story. Reviews have emphasized that *Hades* uses deliberate contrasts in its colour palettes to guide players through an emotional journey. For example, the subdued tones of Tartarus evoke feelings of despair, while the fiery hues of Asphodel suggest struggle and purification. Such deliberate colour segmentation not only reinforces the distinct identities of each underworld region but also acts as a visual cue that mirrors the player’s progression (Eurogamer, 2020; Kotaku, 2020). By marrying colour theory with narrative function, *Hades* offers an experience where every visual element contributes to both atmosphere and story.
 
@@ -29,7 +29,7 @@ In stark contrast, Elysium employs a much lighter, more ethereal colour scheme c
 ![Figure 5 - Elysium Concept Art - by environment artist Joanne Tran](Images/Elysium_ConceptArt.jpeg)
 > Figure 5 - Concept Art of Elysium - by Joanne Tran
 
-Beyond the underworld, *Hades* underscores its narrative through the transition to the overworld. Upon escaping the confines below, players are greeted by a vibrant palette of greens, clear blues, and natural sunlight (Fig.6). This stark contrast is symbolic; the overworld’s bright, natural hues represent liberation and the resurgence of life. Reviews from Destructoid (2020) and VG247 (2020) highlight that these bright colours, combined with dynamic lighting effects, evoke a sense of freedom and renewal that marks a definitive narrative shift.
+Beyond the underworld, *Hades* underscores its narrative through the transition to the overworld (Greece). Upon escaping the confines below, players are greeted by a vibrant palette of greens, clear blues, and natural sunlight (Fig.6). This stark contrast is symbolic; the overworld’s bright, natural hues represent liberation and the resurgence of life. Reviews from Destructoid (2020) and VG247 (2020) highlight that these bright colours, combined with dynamic lighting effects, evoke a sense of freedom and renewal that marks a definitive narrative shift.
 `[INSERT ANNOTATED OVERWORLD SCREENSHOT]`
 > Figure 6 - Annotated Screenshot of The Overworld
 
