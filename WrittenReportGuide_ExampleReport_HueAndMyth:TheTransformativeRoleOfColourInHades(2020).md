@@ -18,16 +18,16 @@ In digital art and game design, colour is not merely decorative; it is instrumen
 ## Deconstruction of Colour Use in Hades
 
 The artistic use of colour in *Hades* stands as a central pillar of its design philosophy, with each region of the underworld defined by a distinctive palette that mirrors its mythological and emotional context. In Tartarus, deep blues, grays, and near-monochromatic hues create an atmosphere of suffocating despair and entrapment. This muted palette, combined with low dynamic lighting (Fig. 3), reinforces the region’s portrayal as a prison for tormented souls—its lack of vibrant colour mirroring the hopelessness of its inhabitants (Rock Paper Shotgun, 2020).
-`[INSERT ANNOTATED TARTARUS SCREENSHOT]`
-> Figure 3 - Annotated Screenshot of Tartarus
+![Figure 3 - Tartarus Concept Art - by environment artist Joanne Tran](Images/Tartarus_ConceptArt.jpeg)
+> Figure 3 - Concept Art of Tartarus - by Joanne Tran
 
 Moving upward, Asphodel is rendered in warm, fiery tones dominated by reds and oranges. This palette conjures images of purgatory and relentless struggle. Reviewers have noted that the higher saturation (Fig.4) in Asphodel symbolizes both the physical heat of a burning realm and the emotional intensity of its mythological narrative (PC Gamer, 2020). The interplay between these saturated hues and stark shadows creates a visual rhythm that effectively communicates perpetual conflict and renewal.
-`[INSERT ANNOTATED ASPHODEL SCREENSHOT]`
-> Figure 4 - Annotated Screenshot of Asphodel
+![Figure 4 - Asphodel Concept Art - by environment artist Joanne Tran](Images/Asphodel_ConceptArt.jpeg)
+> Figure 4 - Concept Art of Asphodel - by Joanne Tran
 
 In stark contrast, Elysium employs a much lighter, more ethereal colour scheme composed of soft pastels and luminous highlights. This region’s gentle palette (Fig. 5) evokes hope and redemption—offering a visual oasis amid the torment of the underworld. Critics have praised the shift in hue, noting that Elysium’s airy colours serve as a powerful metaphor for transcendence and the promise of peace (GameSpot, 2020).
-`[INSERT ANNOTATED ELYSIUM SCREENSHOT]`
-> Figure 5 - Annotated Screenshot of Elysium
+![Figure 5 - Elysium Concept Art - by environment artist Joanne Tran](Images/Elysium_ConceptArt.jpeg)
+> Figure 5 - Concept Art of Elysium - by Joanne Tran
 
 Beyond the underworld, *Hades* underscores its narrative through the transition to the overworld. Upon escaping the confines below, players are greeted by a vibrant palette of greens, clear blues, and natural sunlight (Fig.6). This stark contrast is symbolic; the overworld’s bright, natural hues represent liberation and the resurgence of life. Reviews from Destructoid (2020) and VG247 (2020) highlight that these bright colours, combined with dynamic lighting effects, evoke a sense of freedom and renewal that marks a definitive narrative shift.
 `[INSERT ANNOTATED OVERWORLD SCREENSHOT]`
@@ -103,6 +103,15 @@ The Verge (2020)
 
 *Figure 1 - Promo Image from Supergiant Games Press Kit* [Online]. Available at:
 [https://images.igdb.com/igdb/image/upload/t_original/ar10j0.jpg]
+
+*Figure 3 - Concept Art of Tartarus - by Joanne Tran* [Online]. Available at:
+[https://pbs.twimg.com/media/EiONwYUWAAIZNER?format=jpg&name=4096x4096]
+
+*Figure 4 - Concept Art of Asphodel - by Joanne Tran* [Online]. Available at:
+[https://pbs.twimg.com/media/EiONxqyXsAAo4V4?format=jpg&name=large]
+
+*Figure 5 - Concept Art of Elysium - by Joanne Tran* [Online]. Available at:
+[https://pbs.twimg.com/media/EiON2fKXYAYtb2K?format=jpg&name=large]
 
 *Figure 7 - Screenshot from *Celeste (2018)* by Matt Makes Games* [Online]. Available at:
 [https://www.newgamenetwork.com/images/uploads/gallery/Celeste/celeste_03.jpg]
