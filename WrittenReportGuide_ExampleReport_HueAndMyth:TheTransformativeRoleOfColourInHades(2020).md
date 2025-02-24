@@ -30,8 +30,8 @@ In stark contrast, Elysium employs a much lighter, more ethereal colour scheme c
 > Figure 5 - Concept Art of Elysium - by Joanne Tran
 
 Beyond the underworld, *Hades* underscores its narrative through the transition to the overworld (Greece). Upon escaping the confines below, players are greeted by a vibrant palette of greens, clear blues, and natural sunlight (Fig.6). This stark contrast is symbolic; the overworld’s bright, natural hues represent liberation and the resurgence of life. Reviews from Destructoid (2020) and VG247 (2020) highlight that these bright colours, combined with dynamic lighting effects, evoke a sense of freedom and renewal that marks a definitive narrative shift.
-`[INSERT ANNOTATED OVERWORLD SCREENSHOT]`
-> Figure 6 - Annotated Screenshot of The Overworld
+![Figure 6 - Screenshot of The Overworld](Images/GreeceScreenshot.jpg)
+> Figure 6 - Screenshot of The Overworld (Greece)
 
 Technically, the effective implementation of these varied palettes is achieved through a fusion of hand-painted assets and real‑time digital effects. The integration of dynamic lighting and particle systems means that the game’s colours evolve with gameplay, reinforcing narrative shifts in real time. As noted by The Verge (2020), the deliberate juxtaposition of oppressive underworld hues with the refreshing tones of the overworld not only deepens emotional engagement but also serves as a visual metaphor for rebirth and transformation. In *Hades*, every colour choice is a deliberate narrative decision, inviting players to interpret visual cues in tandem with mythological themes and to experience a rich, immersive emotional journey.
 
@@ -43,14 +43,14 @@ When compared to other indie titles, *Hades*’ approach to colour is notable fo
 
 In contrast, *Hyper Light Drifter* employs a vibrant, neon-inflected palette that creates an otherworldly, retro aesthetic. Its saturated colours are visually striking and contribute to an overall mood of isolation and wonder (Fig.8). However, this approach is more abstract—its colours evoke a consistent atmospheric feel rather than serving as clear narrative signposts. Unlike *Hades*, where each realm’s distinct palette marks a progression in the story from despair to hope, *Hyper Light Drifter*’s approach is geared toward maintaining a uniform mood throughout the game (Polygon, 2016).
 ![Figure 8 - Promo Image from Heart Machine Press Kit](Images/HyperLightDrifterPressKitImage.png)
-> Figure 8 - Screenshot from *HYPER Light DRIFTER (2016)* by Heart Machine
+> Figure 8 - Screenshot from *Hyper Light Drifter (2016)* by Heart Machine
 
 Critical discussions on websites such as Eurogamer and Kotaku underscore that *Hades*’ deliberate interplay between digital lighting and hand‑painted art offers a narrative depth that transcends simple aesthetic appeal. By using colour as a narrative tool, *Hades* not only tells a story of myth and heroism but also guides players through an emotional journey marked by visual transitions from darkness to light. This nuanced use of colour positions *Hades* as a benchmark for artistic innovation in the indie game scene, setting it apart from titles that rely solely on traditional design methods (Destructoid, 2020).
 
 ## Conclusion
 
 In summary, the artistic use of colour in *Hades* is a carefully crafted narrative device that transforms visual aesthetics into a storytelling medium. The deliberate segmentation of colour across the underworld—from Tartarus’ oppressive hues and Asphodel’s fiery tones to Elysium’s serene pastels—contrasts sharply with the revitalizing palette of the overworld (Fig.9). This interplay not only heightens the emotional impact of the game but also reinforces its mythological narrative. As highlighted by multiple reviews (The Verge, 2020), *Hades* exemplifies how innovative colour design can serve as a powerful tool in modern indie game storytelling, setting a new standard in visual narrative.
-`[INSERT HADES ENVIRONMENT COLLAGE IMAGE]`
+![Figure 9 - Hades Regions Side by Side](Images/Hades_side-by-side.png)
 > Figure 9 - The environments of Hades side-by-side
 
 ---
