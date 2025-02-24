@@ -4,7 +4,10 @@
 
 The indie game *Hades (2020)* by Supergiant Games has garnered critical acclaim not only for its innovative gameplay but also for its use of artistic techniques, particularly its employment of colour. *Hades* utilizes a carefully curated palette to enhance its narrative and evoke specific emotional responses from players. This essay deconstructs the artistic use of colour within *Hades*, focusing on the deliberate contrast between the various sections of the underworld—such as Tartarus, Asphodel, and Elysium—and the bright, liberating overworld encountered upon escape. Critical reviews from gaming websites have highlighted that *Hades*’ visual storytelling elevates its mythological narrative, setting a new benchmark for interactive narrative design (IGN, 2020; Polygon, 2020). Through this exploration, this essay aims to demonstrate how hue, saturation, and tonal choices serve both aesthetic and narrative functions.
 
-![Hades Press Kit Image] (Images\Hades Press Kit Image.png)
+![Figure 1: Description of the image](Hades Press Kit Image.png)
+
+
+![Hades Press Kit Image] (.Images/Hades Press Kit Image.png)
 `[INSERT AN IMAGE FROM HADES PRESS KIT]`
 > Figure 1 - Promo Image from Supergiant Games Press Kit
 
