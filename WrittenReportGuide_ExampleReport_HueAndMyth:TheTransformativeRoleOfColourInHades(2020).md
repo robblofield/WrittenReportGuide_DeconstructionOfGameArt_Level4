@@ -38,11 +38,11 @@ Technically, the effective implementation of these varied palettes is achieved t
 ## Comparative Analysis & Critical Perspectives
 
 When compared to other indie titles, *Hades*’ approach to colour is notable for its seamless integration into its narrative framework. While many indie games use colour primarily to establish mood, *Hades*’ palette is intimately tied to storytelling. For instance, *Celeste* adopts a more minimalist approach; its subtle shifts in hue reflect the protagonist’s internal struggles rather than delineating distinct narrative stages. Reviews have observed that *Celeste*’s restrained colour scheme creates an introspective atmosphere, where tonal shifts hint at emotional depth without segmenting its world into mythologically distinct realms (IGN, 2018).
-`[INSERT CELESTE EXAMPLE IMAGE]`
+![Figure 7 - Promo Image from Matt Makes Games Press Kit](Images/CelestePressKitImage.jpg)
 > Figure 7 - Screenshot from *Celeste (2018)* by Matt Makes Games
 
 In contrast, *Hyper Light Drifter* employs a vibrant, neon-inflected palette that creates an otherworldly, retro aesthetic. Its saturated colours are visually striking and contribute to an overall mood of isolation and wonder (Fig.8). However, this approach is more abstract—its colours evoke a consistent atmospheric feel rather than serving as clear narrative signposts. Unlike *Hades*, where each realm’s distinct palette marks a progression in the story from despair to hope, *Hyper Light Drifter*’s approach is geared toward maintaining a uniform mood throughout the game (Polygon, 2016).
-`[INSERT HYPER LIGHT DRIFTER EXAMPLE IMAGE]`
+![Figure 8 - Promo Image from Heart Machine Press Kit](Images/HyperLightDrifterPressKitImage.png)
 > Figure 8 - Screenshot from *HYPER Light DRIFTER (2016)* by Heart Machine
 
 Critical discussions on websites such as Eurogamer and Kotaku underscore that *Hades*’ deliberate interplay between digital lighting and hand‑painted art offers a narrative depth that transcends simple aesthetic appeal. By using colour as a narrative tool, *Hades* not only tells a story of myth and heroism but also guides players through an emotional journey marked by visual transitions from darkness to light. This nuanced use of colour positions *Hades* as a benchmark for artistic innovation in the indie game scene, setting it apart from titles that rely solely on traditional design methods (Destructoid, 2020).
