@@ -14,8 +14,7 @@ For this example report I have chosen the artistic use of colour between distinc
    - `INSERT HERO IMAGE`
    - **Content Breakdown:**  
      - Overview of *Hades* and its critical acclaim.  
-     - Explanation of how the game uses colour to enhance narrative and evoke emotion.
-     - `INSERT SCREENSHOT OF TWO STRIKING ENVIRONMENTS - FEAR/SERENITY`  
+     - Explanation of how the game uses colour to enhance narrative and evoke emotion.  
      - Mention of the review-based references (e.g., IGN, Polygon) to support claims.
    
 2. **Background and Context (≈200 words)**
