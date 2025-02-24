@@ -116,6 +116,6 @@ The Verge (2020)
 *Figure 7 - Screenshot from *Celeste (2018)* by Matt Makes Games* [Online]. Available at:
 [https://www.newgamenetwork.com/images/uploads/gallery/Celeste/celeste_03.jpg]
 
-*Figure 8 - Screenshot from *HYPER Light DRIFTER (2016)* by Heart Machine* [Online]. Available at: [https://www.dropbox.com/scl/fo/cat4x7vrn8tx8h25hqy90/AO0jfsEJerG9OGNOkFpXKIg/Screen%20Shots?preview=STORE_ScreenShot_01.png&rlkey=hd652zfvfv43qrycptlvdh2fz&subfolder_nav_tracking=1&st=os8t3qf3&dl=0]
+*Figure 8 - Screenshot from *Hyper Light Drifter (2016)* by Heart Machine* [Online]. Available at: [https://www.dropbox.com/scl/fo/cat4x7vrn8tx8h25hqy90/AO0jfsEJerG9OGNOkFpXKIg/Screen%20Shots?preview=STORE_ScreenShot_01.png&rlkey=hd652zfvfv43qrycptlvdh2fz&subfolder_nav_tracking=1&st=os8t3qf3&dl=0]
 
 
